@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".FootballActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:orientation="horizontal">
+
+        <!-- For Team A -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/text_style_for_activity_games"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/team_a"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+
+            <TextView
+                android:id="@+id/team_a_points"
+                style="@style/text_style_for_activity_games"
+                android:text="@string/zero"
+                android:textAlignment="center"
+                android:textSize="36sp" />
+
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/g_button"
+                android:onClick="addThreeForTeamA"
+                android:text="@string/three_points"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/s_button"
+                android:onClick="addTwoForTeamA"
+                android:text="@string/two_points"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/b_button"
+                android:onClick="addOneForTeamA"
+                android:text="@string/free_throw"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/r_button"
+                android:onClick="resetPointOfTeamA"
+                android:text="@string/reset"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+        <!-- For Team B -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                style="@style/text_style_for_activity_games"
+                android:layout_marginTop="@dimen/margin_top"
+                android:text="@string/team_b"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+
+            <TextView
+                android:id="@+id/team_b_points"
+                style="@style/text_style_for_activity_games"
+                android:text="@string/zero"
+                android:textAlignment="center"
+                android:textSize="36sp" />
+
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/g_button"
+                android:onClick="addThreeForTeamB"
+                android:text="@string/three_points"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/s_button"
+                android:onClick="addTwoForTeamB"
+                android:text="@string/two_points"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/b_button"
+                android:onClick="addOneForTeamB"
+                android:text="@string/free_throw"
+                android:textAlignment="center" />
+
+            <Button
+                style="@style/button_style_for_activity_games"
+                android:background="@drawable/r_button"
+                android:onClick="resetPointOfTeamB"
+                android:text="@string/reset"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

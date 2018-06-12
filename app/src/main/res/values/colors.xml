@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2980B9</color>
+    <color name="colorPrimaryDark">#2471A3</color>
+    <color name="colorAccent">#AEB6BF</color>
+
+    <!-- Color for Background of Activity -->
+    <color name="colorBackground">#EBF5FB</color>
+
+    <!-- Color for Text of Button of Main Activity -->
+    <color name="colorText">#FFFFFF</color>
+
+    <!-- Color for Headline and Sub-headline of Main Activity Respectively -->
+    <color name="colorH1">#85929E</color>
+    <color name="colorH2">#95A5A6</color>
+
+</resources>

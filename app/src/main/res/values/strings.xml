@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Score</string>
+
+    <string name="splash_display">Welcome to Score!</string>
+
+    <!-- string for main activity -->
+    <string name="headline">Welcome !</string>
+    <string name="sub_headline">Choose Your Favourite Game</string>
+
+    <!-- Strings for Games -->
+    <string name="cricket">Cricket</string>
+    <string name="football">Football</string>
+
+    <!-- Strings for team -->
+    <string name="team_a">TEAM A</string>
+    <string name="team_b">TEAM B</string>
+
+    <!-- String for Initial Score -->
+    <string name="zero">0</string>
+    <string name="f_slash">/</string>
+
+    <!-- String for Overs and Balls -->
+    <string name="over">Overs : </string>
+    <string name="nine">9</string>
+    <string name="period">.</string>
+    <string name="six">6</string>
+
+    <!-- Strings for Cricket-->
+    <string name="six_run">+6 RUN</string>
+    <string name="four_run">+4 RUN</string>
+    <string name="one_run">+1 RUN</string>
+    <string name="out">OUT</string>
+
+    <!-- Strings for Football -->
+    <string name="three_points">+3 POINTS</string>
+    <string name="two_points">+2 POINTS</string>
+    <string name="free_throw">FREE THROW</string>
+
+    <!-- String for Reset button-->
+    <string name="reset">RESET</string>
+
+</resources>
