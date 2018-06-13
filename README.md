@@ -5,7 +5,7 @@ ScoreKeeperApp is an Android based application mainly developed to track scores 
 * Core Java
 * XML for UI Design
 
-## Toos Required
+## Tools Required
 * Android Studio IDE
 * Java SDK
 
@@ -13,7 +13,7 @@ ScoreKeeperApp is an Android based application mainly developed to track scores 
 * For the version 1.0, see the [CourtCounterApp](https://github.com/akdalton/CourtCounterApp).
 * For the version 2.0, see the [ScoreKeeperApp](https://github.com/akdalton/ScoreKeeperApp).
 
-## Authors
+## Author
 * **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
 
 ## License
