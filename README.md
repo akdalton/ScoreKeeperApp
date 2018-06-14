@@ -1,12 +1,14 @@
 # ScoreKeeperApp
-ScoreKeeperApp is an Android based application mainly developed to track scores between two team playing games such as Cricket, Basketball and Football. 
+ScoreKeeperApp is an Android based application mainly developed to track scores for two team playing games such as Cricket and Basketball. 
 
 ## Logo
 ![screen](../master/app/src/main/res/drawable/score.png)
 
-## Technology Uses 
-* Core Java
-* XML for UI Design
+## Pre-requisites
+* Android SDK v28
+
+## Getting Started
+To build this project, use "Import Project" in Android Studio.
 
 ## Tools Required
 * Android Studio IDE
@@ -19,5 +21,3 @@ ScoreKeeperApp is an Android based application mainly developed to track scores 
 ## Author
 * **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
 
-## License
-This project is licensed under the Udacity License.
