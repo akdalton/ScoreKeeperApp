@@ -1,5 +1,6 @@
-# ScoreKeeperApp
-ScoreKeeperApp is an Android based application mainly developed to track scores for two team playing games such as Cricket and Basketball. 
+# Score Keeper App
+* Android based application.
+* Developed to track scores for two team playing games such as Cricket and Basketball. 
 
 ## Logo
 ![screen](../master/app/src/main/res/drawable/score.png)
