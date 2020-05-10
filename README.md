@@ -20,5 +20,5 @@ To build this project, use "Import Project" in Android Studio.
 * For the version 2.0, see the [ScoreKeeperApp](https://github.com/akdalton/ScoreKeeperApp).
 
 ## Author
-* **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
+* **Ashish Kumar** - *Initial work* - [Ashish Kumar](https://github.com/mrashishkumar).
 
